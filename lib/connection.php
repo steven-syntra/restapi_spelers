@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "steven123";
+$password = "";
 $dbname = "voetbal";
 
 // Create connection
